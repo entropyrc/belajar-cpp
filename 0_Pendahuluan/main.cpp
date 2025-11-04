@@ -31,3 +31,20 @@ int main()
 
 // hasil program yang kita buat di sini disebut source kode
 // untuk menjalankan source codenya, kita perlu menggunakan compiler terlebih dahulu menjadi sebuah file yang bisa kita jalankan
+
+// jika kita menggunakan IDE, kita bisa langsung memasang compiler ke dalam IDE tersebut
+// dan melakukan compiler dengan menekan tombol play yang tersedia
+
+// tapi kita juga bisa menggunakan cara lain
+// gunakan g++ yang sudah diinstall sebagai compiler
+
+// ketik 'g++ <nama file yang ingin dicompile>'
+// nantinya file baru yang bernama 'a' akan terbuat secara otomatis
+// file tersebut adalah hasil compile dari file yang kita gunakan pada saat menjalankan perintah 'g++'
+// file 'a' tersebut bisa kita jalankan dengan mengklik dua kali pada file eksplorer
+// atau menggunakan perintah ./ pada console atau terminal
+
+// jika kita menggunakan os windows
+// programnya akan otomatis tertutup pada saat exit
+// maka dari itu kita bisa menambahkan baris perintah 'std::cin.get();' di barisan terakhir
+// agar tab aplikasinya tetap berjalan ketika kita jalankan sampai kita mengetik sesuatu atau menutup tabnya
