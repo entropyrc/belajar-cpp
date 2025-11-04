@@ -1,0 +1,5 @@
+# ignore folder/direcorty
+.vscode
+
+# ignore ekstensi spesifik
+*.json
