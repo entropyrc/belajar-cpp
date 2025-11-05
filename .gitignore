@@ -1,8 +1,9 @@
 # ignore folder/direcorty
 .vscode
 .vs
+x64
 
 # ignore ekstensi spesifik
-*.json
 *.vcxproj*
 *.sln
+*.exe
