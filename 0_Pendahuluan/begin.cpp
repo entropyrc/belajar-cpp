@@ -20,12 +20,13 @@ int main()
     return 0;
 }
 
-// std -> standard library yang berasal dari iostream ketika kita mengimportnya
-// cout -> console out -> memerintah fungsi agar menampilkan atau mengeluarkan ke konsole
+// std (standard) -> library yang berasal dari iostream ketika kita mengimportnya
+// cout (console out) -> memerintah fungsi agar menampilkan atau mengeluarkan ke konsole
 // lalu, apa yang dikeluarkan?
 // sebelum teks string, terdapat simbol << yang artinya memasukkan string tersebut ke fungsi cout
 // sehingga string tersebut akan tampil di console
-// endl -> menunjukkan akhir alirannya atau akhir streamnya
+// endl (end line) -> menunjukkan akhir alirannya atau akhir streamnya
+// setiap baris syntax harus diakhiri dengan simbol semicolon/titik koma (;)
 
 // jika kita tidak menggunakan #include <iostream>, maka kita tidak akan bisa menggunakan fungsi 'std'nya
 
