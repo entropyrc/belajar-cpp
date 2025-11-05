@@ -1,24 +1,18 @@
-# 💻 Muhamad Ricky Ardiansyah — C++ Developer Journey
-
-Halo! Aku Ricky 👋  
-Seorang penggemar teknologi dan pemrograman yang sedang mendalami **C++**.  
-Repo ini adalah tempatku mendokumentasikan perjalanan belajarku dalam memahami **konsep dasar, OOP, dan penerapan C++ di dunia nyata.**
-
----
-
 ## 🚀 Tentang Proyek Ini
 
 Repo ini berisi berbagai eksperimen, catatan, dan mini-project yang kubuat selama belajar C++.  
 Tujuannya bukan hanya sekadar menyimpan kode, tapi juga **membangun dokumentasi pembelajaran** agar bisa jadi referensi di masa depan.
 
+---
+
 ### 📂 Struktur Folder
 
-📦 cpp-learning-journey
-├── 🧩 basics/ → Program dasar (input-output, variabel, loop, array)
-├── ⚙️ functions/ → Contoh penggunaan fungsi & rekursi
-├── 🧱 oop/ → Penerapan konsep OOP (class, inheritance, polymorphism)
-├── 🎮 mini-projects/ → Kumpulan proyek kecil (game console, kalkulator, dll)
-└── 📘 notes/ → Catatan dan dokumentasi pembelajaran
+📦 cpp-learning-journey  
+├── 🧩 basics/ → Program dasar (input-output, variabel, loop, array)  
+├── ⚙️ functions/ → Contoh penggunaan fungsi & rekursi  
+├── 🧱 oop/ → Penerapan konsep OOP (class, inheritance, polymorphism)  
+├── 🎮 mini-projects/ → Kumpulan proyek kecil (game console, kalkulator, dll)  
+└── 📘 notes/ → Catatan dan dokumentasi pembelajaran  
 
 ---
 
