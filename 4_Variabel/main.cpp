@@ -2,6 +2,8 @@
 
 // variabel adalah konsep paling penting dalam C++
 
+using namespace std;
+
 int main()
 {
 	// variable adalah sebuah wadah atau tempat untuk menaruh sebuah nilai atau data
@@ -16,7 +18,7 @@ int main()
 	// jadi ketika membuat variabel maka kita perlu menambahkan tipe data dari variabel tersebut
 
 	// kita bisa melihat isinya dengan perintah console out
-	std::cout << a << std::endl;
-	std::cin.get();
+	cout << a << endl;
+	cin.get();
 	return 0;
 }
