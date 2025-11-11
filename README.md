@@ -1,6 +1,6 @@
 ## 🚀 Tentang Proyek Ini
 
-Repo ini berisi berbagai eksperimen, catatan, dan dokumentasi yang dibuat dengan bahasa pemrograman C++
+Repo ini berisi berbagai eksperimen, catatan, dan dokumentasi yang dibuat dengan bahasa pemrograman C++  
 Tujuannya bukan hanya sekadar menyimpan kode, tapi juga **membangun dokumentasi pembelajaran** agar bisa jadi referensi di masa depan.
 
 ---
@@ -21,6 +21,6 @@ Tujuannya bukan hanya sekadar menyimpan kode, tapi juga **membangun dokumentasi 
 | Tool / Software | Keterangan |
 |-----------------|-------------|
 | **Compiler** | g++ (GNU C++ Compiler) |
-| **Editor** | VS Code / Code::Blocks |
-| **OS** | Linux / Windows |
+| **Editor** | VS Code |
+| **OS** | Windows |
 | **Version Control** | Git & GitHub |
