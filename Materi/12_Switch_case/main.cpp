@@ -17,11 +17,19 @@ int main()
             cout << "a = 4" << endl;
         case 5:
             cout << "a = 5" << endl;
+        default:
+            cout << "Kosong" << endl;
     }
+
+    // ketik switch lalu tanda kurung dan masukkan variabel yang ingin dikondisikan
+    // lalu di bawahnya tambahkan kurung kurawal buka {}
+    // di dalam kurung kurawal tersebut adalah body yang akan berisi case-case yang harus dipenuhi
 
     // dengan menggunakan switch case seperti di atas
     // ketika statement yang kita masukkan di dalam fungsi switch tersebut terpenuhi
     // maka case: yang sesuai akan tereksekusi
+
+    // case 'default' akan tereksekusi ketika case lain tidak terpenuhi (mirip-mirip seperti else pada if-else)
 
     // keuntungan menggunakan switch ini adalah kita bisa menambahkan banyak kondisi (case) dalam satu statement switch
 
