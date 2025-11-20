@@ -21,7 +21,7 @@ int pangkat_iterasi(int a, int b)   // fungsi biasa
 // kita harus membuat yang namanya finite rekursif atau rekursif terbatas
 // agar fungsi tersebut bisa menghentikan perulangannya di satu titik tertentu dan tidak menyebabkan infinity loop
 
-int pangkat_rekursif(int a, int b)  // fungsi rekursif terbatas
+int pangkat_rekursif(int a, int b)  // fungsi rekursif terbatas -> maksudnya bukan 'tidak terbatas' atau infinity loop
 {
     if(b <= 1)  // if-else ini digunakan agar fungsi ini tidak mengalami infinity loop
     {
